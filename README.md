@@ -22,5 +22,9 @@ This bot for Pokemon Go was written by an experienced team that developed bots a
 
 7) Automatically incubate and hatch eggs.
 
+
+
+
 Every one of the above features can be configured/disabled.
+
 Basically you should be able to achieve 2000+ cp pokemon within 24 hours with correct settings.
