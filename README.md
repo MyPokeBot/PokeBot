@@ -23,7 +23,7 @@ This bot for Pokemon Go was written by an experienced team that developed bots a
 7) Automatically incubate and hatch eggs.
 
 
-
+![MyPokeBot - Pokemon Bot About Screen](http://url/to/img.png)
 
 Every one of the above features can be configured/disabled.
 
