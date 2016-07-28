@@ -1,7 +1,10 @@
 # MyPokeBot - PokeBot
 Safest, Friendliest, and overall Best Pokemon Go Bot
 
+Project website: http://www.mypokebot.com
+
 This bot for Pokemon Go was written by an experienced team that developed bots and utilities for so many other games.
+
 
 The bot does the following (everything is configurable in a nice user interface):
 
@@ -17,7 +20,6 @@ The bot does the following (everything is configurable in a nice user interface)
 
 6) Automatically send duplicate Pokemons with lower combat power (CP) to the professor.
 
+
 Every one of the above features can be configured/disabled.
 Basically you should be able to achieve 2000+ cp pokemon within 24 hours with correct settings.
-
-More info at the Project website: http://www.mypokebot.com
