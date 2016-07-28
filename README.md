@@ -28,7 +28,7 @@ Every one of the above features can be configured/disabled.
 Basically you should be able to achieve 2000+ cp pokemon within 24 hours with correct settings.
 
 
-## Some screenshots:
+## Screenshots:
 
 
 ![MyPokeBot - Pokemon Bot About Screen](http://i.imgur.com/Kzv7NXa.png)
