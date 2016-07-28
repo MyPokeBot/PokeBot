@@ -29,7 +29,9 @@ Basically you should be able to achieve 2000+ cp pokemon within 24 hours with co
 
 
 Some screenshots:
+
+
 ![MyPokeBot - Pokemon Bot About Screen](http://i.imgur.com/Kzv7NXa.png)
-![MyPokeBot - Pokemon Bot Main Screen](http://i.imgur.com/Kzv7NXa.png)
-![MyPokeBot - Pokemon Bot Config Screen](http://i.imgur.com/Kzv7NXa.png)
+![MyPokeBot - Pokemon Bot Main Screen](http://i.imgur.com/DpOVGBm.png)
+![MyPokeBot - Pokemon Bot Config Screen](http://i.imgur.com/lqtlwyG.png)
 
