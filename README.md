@@ -23,8 +23,13 @@ This bot for Pokemon Go was written by an experienced team that developed bots a
 7) Automatically incubate and hatch eggs.
 
 
-![MyPokeBot - Pokemon Bot About Screen](http://url/to/img.png)
-
 Every one of the above features can be configured/disabled.
 
 Basically you should be able to achieve 2000+ cp pokemon within 24 hours with correct settings.
+
+
+Some screenshots:
+![MyPokeBot - Pokemon Bot About Screen](http://i.imgur.com/Kzv7NXa.png)
+![MyPokeBot - Pokemon Bot Main Screen](http://i.imgur.com/Kzv7NXa.png)
+![MyPokeBot - Pokemon Bot Config Screen](http://i.imgur.com/Kzv7NXa.png)
+
